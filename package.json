@@ -1,6 +1,6 @@
 {
   "name": "simple-project",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "simple project",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
