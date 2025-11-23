@@ -1,7 +1,7 @@
 import { config } from './config';
 
 export function add(a: number, b: number): number {
-    return a + b;
+  return a + b;
 }
 
 export function capitalize(s: string): string {
